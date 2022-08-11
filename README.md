@@ -1,2 +1,2 @@
-# AlarmSystem
-Embedded Code for an alarm system on the PIC microcontroller for ENCM511 at the University of Calgary
+# Multimeter
+Embedded Code for a multimeter on the PIC microcontroller for ENCM511 at the University of Calgary
